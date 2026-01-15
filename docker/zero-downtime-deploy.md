@@ -31,6 +31,12 @@ Result: **near zero‑downtime deployments**.
 
 ---
 
+## NOTE
+
+* The name 'frontend' that used for docker commands is referred to service name.
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -230,6 +236,8 @@ git pull
 ```bash
 docker compose up -d --build --scale frontend=2
 ```
+
+* Reminder: the name frontend is referred to the service name.
 
 What happens internally:
 
