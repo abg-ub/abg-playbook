@@ -14,3 +14,7 @@ Neovim configurations, terminal shortcuts, engineering documentation and many us
 - Neovim
 - Terminal
 - Scripts
+
+👨‍💻 Maintainer
+
+    ABG
