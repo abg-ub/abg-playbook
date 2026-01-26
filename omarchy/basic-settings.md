@@ -14,7 +14,7 @@ sudo pacman -S \
     nm-connection-editor \
     pavucontrol \
     blueman \
-    wdisplays \
+    nwg-displays \
     nwg-look \
     tlpui \
     polkit-kde-agent
