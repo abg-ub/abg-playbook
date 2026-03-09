@@ -50,13 +50,13 @@ REPUBLISH
 
 ## Workflow
 
-Creator creates listing
-↓
-DRAFT/Submit listing
-↓
-Status → PENDING_APPROVAL
-↓
-Admin reviews listing
+Creator creates listing\
+↓\
+DRAFT/Submit listing\
+↓\
+Status → PENDING_APPROVAL\
+↓\
+Admin reviews listing\
 
 Admin decision:
 
@@ -186,24 +186,24 @@ Creators can:
 
 # 11. Complete User Flow
 
-Creator creates listing
-↓
-Admin approves listing
-↓
-Listing becomes visible
-↓
-User clicks "Book Now" (select date range)
-↓
-Chat negotiation
-↓
-Creator manually creates booking 
-↓
-Selected dates become unavailable
-↓
-Rental happens (status becomes active)
-↓
-Owner marks as canceled (Remaining booked dates becomes available again)
-↓
+Creator creates listing\
+↓\
+Admin approves listing\
+↓\
+Listing becomes visible\
+↓\
+User clicks "Book Now" (select date range)\
+↓\
+Chat negotiation\
+↓\
+Creator manually creates booking \
+↓\
+Selected dates become unavailable\
+↓\
+Rental happens (status becomes active)\
+↓\
+Owner marks as canceled (Remaining booked dates becomes available again)\
+↓\
 Owner marks booking completed 
 
 
